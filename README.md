@@ -9,3 +9,5 @@
 #### Hatalı veya başarılı durumda kullanıcı bilgilendirilmelidir.
 #### E-posta ve parola zorunludur
 #### Hatalı veya başarılı durumda kullanıcı bilgilendirilmelidir.
+
+![1](https://user-images.githubusercontent.com/52690917/117350312-19cb4e80-aeb5-11eb-896c-a4b87e345e63.png)
